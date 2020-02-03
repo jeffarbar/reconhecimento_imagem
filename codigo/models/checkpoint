@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/jefferson/trabalho/pessoal/classificacao_imagem/classificacao/Image-Classification-Tensorflow/codigo/models/trained_model"
+all_model_checkpoint_paths: "/home/jefferson/trabalho/pessoal/classificacao_imagem/classificacao/Image-Classification-Tensorflow/codigo/models/trained_model"
